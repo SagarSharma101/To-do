@@ -12,7 +12,7 @@ A to-do website with task scheduling, progress tracking via graphs, and a dark m
 
 2. **Create the Workspace**:  
    ```bash  
-   daytona create https://github.com/Ayushjhawar8/Cropify-Daytona.git 
+   daytona create https://github.com/SagarSharma101/To-do-Daytona 
    ```  
 3. **Start the Application**:  
    ```bash  
